@@ -1,2 +1,2 @@
-# sicp_coursework
-My coursework for SICP
+# SICP coursework
+This will be ongoing throughout the course of 2018
